@@ -105,17 +105,17 @@ publications:
         link: "#"
         authors: Y. Qu, J. Rong, Z. Li, and K. Chen
         conference: "Knowl.-Based Syst., p. 110591, 2023"
-        impact factor: 8.139
+        # impact factor: 8.139
 
-      - title: Crash/Near-Crash Analysis of Naturalistic Driving Data Using Association Rule Mining
-        link: "#".
-        authors: Y. Qu, Z. Li, Q. Liu, M. Pan, and Z. Zhang
-        conference: J. Adv. Transp., vol. 2022
+      # - title: Crash/Near-Crash Analysis of Naturalistic Driving Data Using Association Rule Mining
+      #   link: "#".
+      #   authors: Y. Qu, Z. Li, Q. Liu, M. Pan, and Z. Zhang
+      #   conference: J. Adv. Transp., vol. 2022
         
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      # - title: A syntax directed compiler for Algol 60
+      #   link: "#"
+      #   authors: Edgar T. Irons
+      #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
