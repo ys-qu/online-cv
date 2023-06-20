@@ -68,21 +68,18 @@ education:
         university: Beijing University of Technology
         time: 2021 - Present
         details: |
-            - Bullet point 
-            Thesis: "Graph representation learning for spatiotemporal traffic prediction with missing values"
-            - Bullet point 
-            Faculty mentors: Prof. Xiao-Hua Zhao, Prof. Zhen-Long Li, Prof. Hai-Jian Li
+            - Thesis: "Graph representation learning for spatiotemporal traffic prediction with missing values"
+            - Faculty mentors: Prof. Xiao-Hua Zhao, Prof. Zhen-Long Li, Prof. Hai-Jian Li
+            - GPA: 3.56/4.0(87.78/100); Rank: top 15%
+            - Major courses: Numerical Analysis (99), Methods of Data Analysis with R Software (95)
       - degree: B.S., Transportation Engineering
         university: Dalian Jiaotong University
         time: 2017 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Thesis: "Reconstruction planning and design of typical congestion sections in cities -- Taking Jiefang Square area as an example"
+            - GPA: 3.47/4.0(84.29/100); Rank: top 15%
+            - Major courses: Analysis, Modeling and Applications of Traffic Data (97), Advanced Mathematics (95), Mechanics of Materials (91), 
+            Probability and Statistics (90), Transportation System Engineering (90)
 experiences:
     title: Experiences
     info:
