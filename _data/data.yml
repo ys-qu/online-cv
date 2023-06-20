@@ -84,13 +84,13 @@ experiences:
     info:
       - role: Participant
         time: 2021 - 2022
-        grant: National Natural Science Foundation of China, 106,345 dollars
+        company: National Natural Science Foundation of China, 106,345 dollars
         details: |
             - Read and summarize related works on trajectory planning for autonomous vehicle and time series prediction.
             - Learn programming skills, and gradually find my own research direction in support of this foundation.
       - role: Participant
         time: 2022 - 2023
-        grant: Science and Technology Demonstration Project of the Transportation Department of Guangxi Zhuang Autonomous Region, 28,740 dollars
+        company: Science and Technology Demonstration Project of the Transportation Department of Guangxi Zhuang Autonomous Region, 28,740 dollars
         details: |
             - Raw traffic flow data and geographical information preprocessing to form inputs and adjacency graphs by Python; Multiple missing
             patterns (random missing, timestamp missing, node missing, and block missing) analysis to stimulate the real scenarios.
@@ -119,24 +119,21 @@ publications:
         authors: Y. Qu, Z. Li, and M. Pan
         conference: "IEEE Trans. Intell. Transp. Syst. (under review)"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+experiences:
+    title: Technical skills
+    info:
+      - role: Participant
+        time: 2021 - 2022
+        company: National Natural Science Foundation of China, 106,345 dollars
+        details: |
+            - Read and summarize related works on trajectory planning for autonomous vehicle and time series prediction.
+            - Learn programming skills, and gradually find my own research direction in support of this foundation.
+      - role: Participant
+        time: 2022 - 2023
+        company: Science and Technology Demonstration Project of the Transportation Department of Guangxi Zhuang Autonomous Region, 28,740 dollars
+        details: |
+            - Raw traffic flow data and geographical information preprocessing to form inputs and adjacency graphs by Python; Multiple missing
+            patterns (random missing, timestamp missing, node missing, and block missing) analysis to stimulate the real scenarios.
+            - Spatiotemporal adaptive periodical graph contrast learning (ST-A-PGCL) framework is built to make area-wide traffic prediction
+            under multiple missing patterns. ST-A-PGCL can extract the spatiotemporal correlations with graph convolution and temporal dilated
+            casual convolution, and defeat the data incompleteness based on periodical graph contrastive learning (PGCL) and periodicities modeling.
