@@ -112,12 +112,12 @@ publications:
         conference: "J. Adv. Transp., vol. 2022 (IF: 2.249)"
         
       - title: "Towards real-world traffic prediction and data imputation: A multi-task pretraining and fine-tuning approach"
-        link: 
+        link: "#"
         authors: Y. Qu, Z. Li, X. Zhao, and J. Ou
         conference: "Inf. Sci. (under review)"
 
         - title: "TSS-FuseNet: a temporal-spatial-semantic fusion CNN-GRU-GCN network for area-wide long-term traffic forecasting"
-        link: 
+        link: "#"
         authors: Y. Qu, Z. Li, and M. Pan
         conference: "IEEE Trans. Intell. Transp. Syst. (under review)"
 
