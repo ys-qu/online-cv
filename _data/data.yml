@@ -16,7 +16,7 @@ sidebar:
     phone: (+86) 18801385413
     timezone: China/Beijing Timezone
     citizenship:
-    # website: blog.webjeda.com #do not add http://
+    website: scholar.google.com/citations?hl=en&user=MAJACSsAAAAJ
     # linkedin: alandoe
     # xing: alandoe
     github: ys-qu
@@ -44,10 +44,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Regular Running
           link:
 
-        - item: Snowboarding
+        - item: Movies
           link:
 
         - item: Cooking
