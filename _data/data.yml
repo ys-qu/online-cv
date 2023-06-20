@@ -32,11 +32,11 @@ sidebar:
     languages:
       title: Languages
       info:
+        - idiom: Chinese
+          level: Native
+
         - idiom: English
           level: Professional
-
-        # - idiom: French
-        #   level: Professional
 
         # - idiom: Spanish
         #   level: Professional
@@ -44,7 +44,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Regular Running
+        - item: Running
           link:
 
         - item: Movies
@@ -70,10 +70,10 @@ education:
         time: 2021 - Present
         details: |
             - Bullet point Thesis: "Graph representation learning for spatiotemporal traffic prediction with missing values"
-            - Bullet point
-      - degree: BSc in Applied Mathematics
+            - Bullet point Faculty mentors: Prof. Xiao-Hua Zhao, Prof. Zhen-Long Li, Prof. Hai-Jian Li
+      - degree: B.S., Transportation Engineering
         university: Bristol University
-        time: 2007 - 2011
+        time: 20017 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
