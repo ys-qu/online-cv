@@ -58,6 +58,7 @@ profile:
       and have completed the writing of four SCI papers. I am willing to take responsibilities in works, learn new knowledge, and solve problems
       with a strong spirit of research. I am applying for 24 Fall Ph.D. project, if you are interested on me, please contact me by my 
       email (quyansong@emails.bjut.edu.cn) at any time.
+      
 education:
     title: Education
     info:
@@ -77,6 +78,7 @@ education:
             - GPA: 3.47/4.0(84.29/100); Rank: top 15%
             - Major courses: Analysis, Modeling and Applications of Traffic Data (97), Advanced Mathematics (95), Mechanics of Materials (91), 
             Probability and Statistics (90), Transportation System Engineering (90)
+            
 experiences:
     title: Experiences
     info:
@@ -95,6 +97,7 @@ experiences:
             - Spatiotemporal adaptive periodical graph contrast learning (ST-A-PGCL) framework is built to make area-wide traffic prediction
             under multiple missing patterns. ST-A-PGCL can extract the spatiotemporal correlations with graph convolution and temporal dilated
             casual convolution, and defeat the data incompleteness based on periodical graph contrastive learning (PGCL) and periodicities modeling.
+            
 publications:
     title: Publications
     papers:
@@ -104,11 +107,11 @@ publications:
         conference: Knowl.-Based Syst., p. 110591, 2023
         impact factor: 8.139
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Crash/Near-Crash Analysis of Naturalistic Driving Data Using Association Rule Mining
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
+        authors: Y. Qu, Z. Li, Q. Liu, M. Pan, and Z. Zhang
+        conference: J. Adv. Transp., vol. 2022
+        
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
