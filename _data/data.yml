@@ -53,7 +53,7 @@ sidebar:
 profile:
     title: Profile
     summary: |
-      I was admitted to Transportation Engineering at Beijing University of Technology in 2021 with the second highest score in my major after
+      - I was admitted to Transportation Engineering at Beijing University of Technology in 2021 with the second highest score in my major after
       graduating from Dalian Jiaotong University. While pursuing master’s degree, I have been awarded with the first-class academic scholarship
       and have completed the writing of four SCI papers. I am willing to take responsibilities in works, learn new knowledge, and solve problems
       with a strong spirit of research. I am applying for 24 Fall Ph.D. project, if you are interested on me, please contact me by my 
@@ -105,7 +105,7 @@ publications:
         link: "#"
         authors: Y. Qu, J. Rong, Z. Li, and K. Chen
         conference: Knowl.-Based Syst., p. 110591, 2023
-        impact factor: 8.139
+        # impact factor: 8.139
 
       - title: Crash/Near-Crash Analysis of Naturalistic Driving Data Using Association Rule Mining
         link: "#".
