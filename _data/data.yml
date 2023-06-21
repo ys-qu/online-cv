@@ -136,3 +136,22 @@ oss:
 
       - title: The Second Prize in “FLTRP·ETIC Cup” English Reading Contest
         tagline: "Awarded by Foreign Language Teaching and Research Press during 2019-2020"
+
+projects:
+    title: Technical skills
+    assignments:
+      - title: Machine learning
+        tagline: "Significant experience in the application of traditional statistical modeling (association rules mining, linear regression, K-nearest neighbor, K-means algorithm, categorical data analysis, time-series analysis, etc); State-of-art deep learning models, including Recurrent Neural Network, Convolutional Neural Network, Graph Neural Network, Generative Adversarial Network, Diffusion Model, Transformer, etc; Various deep learning diagrams, including Contrastive Learning, Transfer Learning, Meta Learning, etc."
+
+      - title: Python programming
+        tagline: "Solid programming foundation in building, training, and evaluating the proposed model, and conducting comprehensive experiments (comparison with baseline models, ablation analysis, and training efficiency analysis, etc) to prove the improvement and efficiency."
+
+      - title: Traffic data
+        tagline: "Demonstrated experience working with large-scale spatiotemporal traffic data (PEMS, etc) for missing data patterns analysis, data visualization, and data preprocessing, and with driving behavior data (NDS, etc) for association rules mining."
+
+      - title: Reading and writing
+        tagline: "Significant experience in reading and writing academic journals in English; Capable of quickly summarizing core points, and generating novel ideas."
+
+      - title: Engineering deployment & professional software
+        tagline: "\blod{Familiarity} with Java, MySQL, Apache Flink, and Linux for engineering deployment, and professional software, including AutoCAD, VISSIM, OFFICE, etc."
+
