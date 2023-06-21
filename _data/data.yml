@@ -153,5 +153,12 @@ projects:
         tagline: "Significant experience in reading and writing academic journals in English; Capable of quickly summarizing core points, and generating novel ideas."
 
       - title: Engineering deployment & professional software
-        tagline: "\blod{Familiarity} with Java, MySQL, Apache Flink, and Linux for engineering deployment, and professional software, including AutoCAD, VISSIM, OFFICE, etc."
+        tagline: "Familiarity with Java, MySQL, Apache Flink, and Linux for engineering deployment, and professional software, including AutoCAD, VISSIM, OFFICE, etc."
 
+ title: English
+    assignments:
+      - title: Reading and writing
+        tagline: "Significant experience in reading and writing academic journals in English; Capable of quickly summarizing core points, and generating novel ideas."
+      
+      - title: TOEFL and GRE
+        tagline: "TOEFL (97), GRE(328)"
