@@ -119,21 +119,21 @@ publications:
         authors: Y. Qu, Z. Li, and M. Pan
         conference: "IEEE Trans. Intell. Transp. Syst. (under review)"
 
-experiences:
-    title: Technical skills
-    info:
-      - role: Participant
-        time: 2021 - 2022
-        company: National Natural Science Foundation of China, 106,345 dollars
-        details: |
-            - Read and summarize related works on trajectory planning for autonomous vehicle and time series prediction.
-            - Learn programming skills, and gradually find my own research direction in support of this foundation.
-      - role: Participant
-        time: 2022 - 2023
-        company: Science and Technology Demonstration Project of the Transportation Department of Guangxi Zhuang Autonomous Region, 28,740 dollars
-        details: |
-            - Raw traffic flow data and geographical information preprocessing to form inputs and adjacency graphs by Python; Multiple missing
-            patterns (random missing, timestamp missing, node missing, and block missing) analysis to stimulate the real scenarios.
-            - Spatiotemporal adaptive periodical graph contrast learning (ST-A-PGCL) framework is built to make area-wide traffic prediction
-            under multiple missing patterns. ST-A-PGCL can extract the spatiotemporal correlations with graph convolution and temporal dilated
-            casual convolution, and defeat the data incompleteness based on periodical graph contrastive learning (PGCL) and periodicities modeling.
+oss:
+    title: Awards and Fellowships
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: The First-class Academic Scholarship
+        link: "#"
+        tagline: "Assigned by Beijing University of Technology during 2021-2022"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
