@@ -121,19 +121,18 @@ publications:
 
 oss:
     title: Awards and Fellowships
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: The First-class Academic Scholarship
-        link: "#"
-        tagline: "Assigned by Beijing University of Technology during 2021-2022"
+        tagline: "Awarded by Beijing University of Technology during 2021-2022"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: The Second-class Academic Scholarship
+        tagline: "Awarded by Dalian Jiaotong University during 2019-2020"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: The First Prize in Chinese Mathematics Competitions
+        tagline: "Awarded by Chinese Mathematical Society during 2020-2021"
+
+      - title: The Second Prize in National English Competition for College Students
+        tagline: "Awarded by TEFL China during 2019-2020"
+
+      - title: The Second Prize in “FLTRP·ETIC Cup” English Reading Contest
+        tagline: "Awarded by Foreign Language Teaching and Research Press during 2019-2020"
