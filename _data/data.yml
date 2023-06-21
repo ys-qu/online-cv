@@ -50,7 +50,7 @@ sidebar:
         - item: Cooking
           link:
 
-career-profile::
+career-profile:
     title: Profile
     summary: |
       I was admitted to Transportation Engineering at Beijing University of Technology in 2021 with the second highest score in my major after
@@ -155,8 +155,6 @@ projects:
       - title: Engineering deployment & professional software
         tagline: "Familiarity with Java, MySQL, Apache Flink, and Linux for engineering deployment, and professional software, including AutoCAD, VISSIM, OFFICE, etc."
 
- title: English
-    assignments:
       - title: Reading and writing
         tagline: "Significant experience in reading and writing academic journals in English; Capable of quickly summarizing core points, and generating novel ideas."
       
