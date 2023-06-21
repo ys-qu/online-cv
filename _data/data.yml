@@ -67,7 +67,7 @@ education:
         time: 2021 - Present
         details: |
             - Thesis: "Graph representation learning for spatiotemporal traffic prediction with missing values"
-            - Faculty mentors: Prof. Xiao-Hua Zhao, Prof. Zhen-Long Li, Prof. Hai-Jian Li
+            - Faculty mentors: Prof. Zhen-Long Li (lzl@bjut.edu.cn), Prof. Xiao-Hua Zhao (zhaoxiaohua@bjut.edu.cn), Prof. Hai-Jian Li (lihaijian@bjut.edu.cn)
             - GPA: 3.56/4.0(87.78/100); Rank: top 15%
             - Major courses: Numerical Analysis (99), Methods of Data Analysis with R Software (95)
       - degree: B.S., Transportation Engineering
@@ -104,12 +104,12 @@ publications:
       - title: "ST-A-PGCL: Spatiotemporal adaptive periodical graph contrastive learning for traffic prediction under real scenarios"
         link: "https://www.sciencedirect.com/science/article/abs/pii/S0950705123003416"
         authors: Y. Qu, J. Rong, Z. Li, and K. Chen
-        conference: "Knowl.-Based Syst., p. 110591, 2023 (IF: 8.139)"
+        conference: "Knowl.-Based Syst., p. 110591, 2023 (accepted, IF: 8.139)"
 
       - title: "Crash/Near-Crash Analysis of Naturalistic Driving Data Using Association Rule Mining"
         link: "https://www.hindawi.com/journals/jat/2022/6562649/"
         authors: Y. Qu, Z. Li, Q. Liu, M. Pan, and Z. Zhang
-        conference: "J. Adv. Transp., vol. 2022 (IF: 2.249)"
+        conference: "J. Adv. Transp., vol. 2022 (accepted, IF: 2.249)"
     
       - title: "Towards real-world traffic prediction and data imputation: A multi-task pretraining and fine-tuning approach"
         authors: Y. Qu, Z. Li, X. Zhao, and J. Ou
