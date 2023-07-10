@@ -148,11 +148,8 @@ projects:
       - title: Traffic data
         tagline: "Demonstrated experience working with large-scale spatiotemporal traffic data (PEMS, etc) for missing data patterns analysis, data visualization, and data preprocessing, and with driving behavior data (NDS, etc) for association rules mining."
 
-      - title: Reading and writing
-        tagline: "Significant experience in reading and writing academic journals in English; Capable of quickly summarizing core points, and generating novel ideas."
-
       - title: Engineering deployment & professional software
-        tagline: "Familiarity with Java, MySQL, Apache Flink, and Linux for engineering deployment, and professional software, including AutoCAD, VISSIM, OFFICE, etc."
+        tagline: "Familiarity with Java, MySQL, Apache Flink, and Linux for engineering deployment, and professional software, including GIS, AutoCAD, VISSIM, OFFICE, etc."
 
       - title: Reading and writing
         tagline: "Significant experience in reading and writing academic journals in English; Capable of quickly summarizing core points, and generating novel ideas."
